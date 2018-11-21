@@ -3,6 +3,9 @@
 Hi, 
 
 My name is Cécile HUI BON HOA, I am a fullstack developer.
+
+You can find my resume here : https://www.linkedin.com/in/cecile-hui-bon-hoa/
+
 You can find some publications I have made here :
 
 https://www.soat.fr/publications/data-visualisation (french)
@@ -19,8 +22,6 @@ Vision stratégique des dirigeants et vision technique de leurs équipes sont bi
 
 Ce livre blanc vous propose dans un premier temps d’analyser les leviers permettant la mise en œuvre concrète du Big Data dans votre entreprise. Quels sont les prérequis, qui doit porter le projet, quels coûts engager…
 Dans une seconde partie, nous vous donnons les clés techniques pour réaliser au mieux votre projet Big Data : acquisition, stockage, traitement, analyse et restitution des données sont autant d’étapes indispensables au succès de la démarche.
-
-Nous vous souhaitons une agréable lecture.
 
 https://medium.com/@cecileh/ces-unveiled-paris-2015-771b9d4470d8 (english)
 Every year takes place in Las Vegas the international CES(Consumer Electronics Show). An unmissable event for anyone involved in the digital and new technologies. The CES has become the global stage where next-generation innovations are introduced to the marketplace.
