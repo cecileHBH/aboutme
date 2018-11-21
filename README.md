@@ -4,7 +4,11 @@ Hi,
 
 My name is **Cécile HUI BON HOA**, I am a fullstack developer.
 
-You can find my resume here : :office: https://www.linkedin.com/in/cecile-hui-bon-hoa/
+You can find my resume here : 
+
+:office: https://www.linkedin.com/in/cecile-hui-bon-hoa/
+
+:bird: twitter @CecileHbh
 
 :books: You can find some publications I have made here :
 
@@ -41,7 +45,7 @@ Lors du “CES Unveiled Paris”, les tendances que l’on pourra retrouver en j
 
 A quelles innovations devons-nous nous attendre ? Quels seront nos futurs objets du quotidien ? Quelle est la place des entreprises et start-ups françaises dans ce salon ?
 
-:rainbow: https://blog.soat.fr/2015/05/comprendre-mapreduce/ :fr: (french)
+:elephant: https://blog.soat.fr/2015/05/comprendre-mapreduce/ :fr: (french)
 
 Depuis plusieurs années, nous entendons les termes BigData, noSql et mapReduce. L’évolution considérable du volume de données disponibles a changé notre façon de les stocker et de les traiter. Nous en avons de plus en plus et voulons les traiter de plus en plus vite. Mais comment traiter ces données rapidement et surtout avant qu’elles ne deviennent obsolètes ?
 
