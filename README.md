@@ -10,6 +10,8 @@ You can find my resume here :
 
 :bird: twitter @CecileHbh
 
+:pencil: codepen https://codepen.io/cecileh/
+
 :books: You can find some publications I have made here :
 
 :bar_chart: https://www.soat.fr/publications/data-visualisation :fr: (french)
