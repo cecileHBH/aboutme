@@ -4,6 +4,12 @@ Hi,
 
 My name is **Cécile HUI BON HOA**, I am a fullstack developer.
 
+:gb: Beginning my career as a back-end engineer, I then evolved into a fullstack developer allowing me to understand and master the data at each stage.
+Manipulating a large volume of data on a daily basis encouraged me to rely on data visualization to create adapted data views. Whether it is for storytelling presentation, a graphic support to convince or a personalized tool to manage information, I believe data visualization is now an essential step in the Big Data world.
+
+:fr: Débutant ma carrière en tant qu’ingénieure back-end, j’ai ensuite évolué vers un profil fullstack me permettant de comprendre et maîtriser la donnée à chaque étape.
+Manipuler au quotidien une grande volumétrie de données m’a encouragé à m’appuyer sur la data visualisation pour créer des vues de données adaptées. Que ce soit un storytelling pour présenter, un support graphique pour convaincre ou un outil sur-mesure pour gérer les informations, la data visualisation est désormais un métier incontournable du Big Data.
+
 You can find my resume here : 
 
 :office: https://www.linkedin.com/in/cecile-hui-bon-hoa/
