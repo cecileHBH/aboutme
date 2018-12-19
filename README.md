@@ -20,6 +20,12 @@ You can find my resume here :
 
 :books: You can find some publications I have made here :
 
+:art: https://www.24joursdeweb.fr/2018/dessiner-en-css-c-est-facile/ :fr: (french)
+
+Tout le monde connaît CSS, pour s’être arraché quelques cheveux en essayant d’aligner des éléments, rendre un site responsive ou juste pour essayer de rendre le côté front « plus joli ».
+
+CSS ne sert pas uniquement à présenter correctement la partie front d’une web app et il est possible de faire énormément de choses avec. J’aimerais vous montrer qu’il est possible de dessiner en utilisant CSS.
+
 :bar_chart: https://www.soat.fr/publications/data-visualisation :fr: (french)
 
 La data visualisation nous permet de créer un visuel qui transmet de manière efficace le sens d’une donnée. Ce visuel doit prendre en compte la donnée mais également la perception humaine. Parmi les 3 modes de visualisation (interactif, présentation, storytelling), celui que nous rencontrons le plus fréquemment est la présentation.
