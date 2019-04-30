@@ -20,6 +20,12 @@ You can find my resume here :
 
 :books: You can find some publications I have made here :
 
+:triangular_ruler: https://www.soat.fr/publications/refcard-css :fr: (french)
+
+Aujourd’hui, même si le web ne se résume pas uniquement au trio HTML-CSS-Javascript, il reste indispensable de maîtriser ces langages. Malgré cela, la plupart des développeurs se désintéressent de CSS au profit d’autres technologies, CSS n’attirant l’attention que lorsqu’il s’agira d’aligner des éléments, de rendre un site responsive ou juste d’essayer de rendre le côté front plus attractif.
+
+À travers cette refcard, j’aimerais vous montrer une autre facette de ce langage, partager avec vous certaines bonnes pratiques, astuces et peut-être vous prouver que ce langage mérite votre attention.
+
 :art: https://www.24joursdeweb.fr/2018/dessiner-en-css-c-est-facile/ :fr: (french)
 
 Tout le monde connaît CSS, pour s’être arraché quelques cheveux en essayant d’aligner des éléments, rendre un site responsive ou juste pour essayer de rendre le côté front « plus joli ».
