@@ -18,7 +18,7 @@ You can find my resume here :
 
 :pencil: codepen https://codepen.io/cecileh/
 
-:movie_camera: Public presentation I have made :
+:movie_camera: **Public presentation I have made :**
 
 :art: https://www.youtube.com/watch?v=P1zkbJbYzJ0 :fr: (french) DevoxxFr2019
 
@@ -28,7 +28,7 @@ CSS ne sert pas uniquement à présenter correctement la partie front d’une we
 
 J’aimerais vous montrer comme dessiner en utilisant CSS.
 
-:books: You can find some publications I have made here :
+:books: **You can find some publications I have made here :**
 
 :triangular_ruler: https://www.soat.fr/publications/refcard-css :fr: (french)
 
